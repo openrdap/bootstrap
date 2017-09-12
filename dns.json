@@ -25,6 +25,15 @@
       [
         "https://rdap.registro.br/"
       ]
+    ],
+    [
+      [
+        "cc",
+        "tv"
+      ],
+      [
+        "https://rdap.verisignlabs.com/rdap/v1"
+      ]
     ]
   ],
   "version": "1.0"
