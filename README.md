@@ -11,5 +11,5 @@ The official RDAP Service Registries are at https://data.iana.org/rdap/.
 
 This is an unofficial set of Service Registry files, which includes experimental RDAP servers such as rdap.verisignlabs.com (.cc, .tv).
 
-To add/remove services, send a pull request.
+To add/remove services, send a pull request on https://github.com/openrdap/bootstrap.
 
