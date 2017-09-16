@@ -1,6 +1,6 @@
 {
   "description": "RDAP bootstrap file for Domain Name System registrations",
-  "publication": "2017-09-12T21:00:00Z",
+  "publication": "2017-09-16T11:00:00Z",
   "services": [
     [
       [
@@ -28,7 +28,14 @@
     ],
     [
       [
-        "cc",
+        "cc"
+      ],
+      [
+        "https://vtrdap.verisignlabs.com/rdap/v1"
+      ]
+    ],
+    [
+      [
         "tv"
       ],
       [
