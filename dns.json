@@ -49,6 +49,14 @@
       [
         "https://rdap.pubtest.nic.it/"
       ]
+    ],
+    [
+      [
+        "com", "net"
+      ],
+      [
+        "https://rdap-pilot.verisignlabs.com/rdap/v1"
+      ]
     ]
   ],
   "version": "1.0"
