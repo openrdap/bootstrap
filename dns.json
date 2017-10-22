@@ -57,6 +57,14 @@
       [
         "https://rdap-pilot.verisignlabs.com/rdap/v1"
       ]
+    ],
+    [
+      [
+        "google"
+      ],
+      [
+        "https://registry.google/rdap"
+      ]
     ]
   ],
   "version": "1.0"
