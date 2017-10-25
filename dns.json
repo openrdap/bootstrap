@@ -7,7 +7,7 @@
         "ar"
       ],
       [
-        "https://rdap.nic.ar"
+        "https://rdap.nic.ar/"
       ]
     ],
     [
@@ -15,7 +15,7 @@
         "cz"
       ],
       [
-        "https://rdap.nic.cz"
+        "https://rdap.nic.cz/"
       ]
     ],
     [
@@ -31,7 +31,7 @@
         "cc"
       ],
       [
-        "https://vtrdap.verisignlabs.com/rdap/v1"
+        "https://vtrdap.verisignlabs.com/rdap/v1/"
       ]
     ],
     [
@@ -39,7 +39,7 @@
         "tv"
       ],
       [
-        "https://rdap.verisignlabs.com/rdap/v1"
+        "https://rdap.verisignlabs.com/rdap/v1/"
       ]
     ],
     [
@@ -55,7 +55,7 @@
         "com", "net"
       ],
       [
-        "https://rdap-pilot.verisignlabs.com/rdap/v1"
+        "https://rdap-pilot.verisignlabs.com/rdap/v1/"
       ]
     ],
     [
@@ -63,7 +63,7 @@
         "google"
       ],
       [
-        "https://registry.google/rdap"
+        "https://registry.google/rdap/"
       ]
     ]
   ],
