@@ -65,6 +65,14 @@
       [
         "https://registry.google/rdap/"
       ]
+    ],
+    [
+      [
+        "info"
+      ],
+      [
+        "http://rdg.afilias.info/rdap/"
+      ]
     ]
   ],
   "version": "1.0"
