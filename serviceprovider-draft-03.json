@@ -1,6 +1,6 @@
 {
    "version" : "1.0",
-   "publication" : "2016-09-16T11:00:00Z",
+   "publication" : "2017-10-27T20:00:00Z",
    "description" : "RDAP service provider bootstrap values",
    "services" : [
       [
@@ -9,6 +9,14 @@
          ],
          [
             "https://rdap-pilot.verisignlabs.com/rdap/v1/"
+         ]
+      ],
+      [
+         [
+            "ITNIC"
+         ],
+         [
+            "https://rdap.pubtest.nic.it/"
          ]
       ]
    ]
