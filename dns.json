@@ -143,6 +143,14 @@
             [
                 "https://rdap.nic.versicherung/rdap/v1/"
             ]
+        ],
+        [
+            [
+                "test"
+            ],
+            [
+                "https://test.reddog.mx/rdap"
+            ]
         ]
     ],
     "version": "1.0",
