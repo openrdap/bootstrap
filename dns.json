@@ -655,9 +655,17 @@
             [
                 "https://rdap-ote.centralnic.com/xyz/"
             ]
+        ],
+        [
+            [
+                "neustar"
+            ],
+            [
+                "https://rdap.nic.neustar"
+            ]
         ]
     ],
     "version": "1.0",
-    "publication": "2018-04-20T16:26:00Z"
+    "publication": "2018-05-25T23:34:00Z"
 }
 
